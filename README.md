@@ -1,2 +1,3 @@
 # Description
-This is a simple js TODO template. it only renders and shows a dialog.
+This is a simple js TODO template. 
+Renders a todo card, shows a dialog for removal, and remove the card if confirms
